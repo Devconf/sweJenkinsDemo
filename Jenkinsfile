@@ -21,7 +21,6 @@ pipeline {
     post {
         always {
             echo 'pipeline done'
-        }
-          
+        }       
     }
 }
